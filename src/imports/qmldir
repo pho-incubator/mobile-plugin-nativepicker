@@ -1,0 +1,4 @@
+module GroupsIncNativePicker
+plugin declarative_nativepicker
+typeinfo plugins.qmltypes
+classname GNativePickerModule
